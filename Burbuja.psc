@@ -1,4 +1,4 @@
-Algoritmo OrdenaMatriz
+Algoritmo Burbuja
 	Definir  A,i,j,k,n,aux Como Entero;
 	Dimension  A[5];
 	n <- 4;
